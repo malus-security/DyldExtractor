@@ -1,4 +1,3 @@
-[![PyPI version](https://badge.fury.io/py/dyldextractor.svg)](https://badge.fury.io/py/dyldextractor)
 # DyldExtractor
 Extract Binaries from Apple's Dyld Shared Cache to be useful in a disassembler. This tool only supports iOS.
 
